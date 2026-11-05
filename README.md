@@ -6,14 +6,14 @@
 
 Founder of [AI Employee Lab](https://www.skool.com/aiemployeelab) and [CortexTools](https://cortextools.ai), based in Orange County, California. I spent 7+ years in ecom, trading and consulting before going all-in on AI. Now I'm building my own AI team in public and sharing the templates as I go.
 
-![Claude Code](https://img.shields.io/badge/-Claude_Code-E03C0C?style=flat-square&logo=claude&logoColor=white)
-![Codex](https://img.shields.io/badge/-Codex-16140F?style=flat-square)
-![Python](https://img.shields.io/badge/-Python-16140F?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-16140F?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-16140F?style=flat-square&logo=nextdotjs&logoColor=white)
-![Remotion](https://img.shields.io/badge/-Remotion-16140F?style=flat-square)
-![HyperFrames](https://img.shields.io/badge/-HyperFrames-16140F?style=flat-square)
-![Obsidian](https://img.shields.io/badge/-Obsidian-16140F?style=flat-square&logo=obsidian&logoColor=white)
+![Claude Code](assets/badges/claude-code.svg)
+![Codex](assets/badges/codex.svg)
+![Python](assets/badges/python.svg)
+![TypeScript](assets/badges/typescript.svg)
+![Next.js](assets/badges/next-js.svg)
+![Remotion](assets/badges/remotion.svg)
+![HyperFrames](assets/badges/hyperframes.svg)
+![Obsidian](assets/badges/obsidian.svg)
 
 ## Start here
 
@@ -54,11 +54,11 @@ The honest version: guard hooks are pattern matchers, not security boundaries, a
 
 ## Connect
 
-[![YouTube](https://img.shields.io/badge/-YouTube-16140F?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@kyleherbel)
-[![X](https://img.shields.io/badge/-KyleHerbel-16140F?style=flat-square&logo=x&logoColor=white)](https://x.com/KyleHerbel)
-[![Instagram](https://img.shields.io/badge/-kyleherbel-16140F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kyleherbel/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-16140F?style=flat-square)](https://www.linkedin.com/in/kyleherbel)
-[![Skool](https://img.shields.io/badge/-Skool-16140F?style=flat-square)](https://www.skool.com/@kyleherbel)
-[![Website](https://img.shields.io/badge/-kyleherbel.com-E03C0C?style=flat-square)](https://kyleherbel.com)
+[![YouTube](assets/badges/youtube.svg)](https://www.youtube.com/@kyleherbel)
+[![X](assets/badges/x.svg)](https://x.com/KyleHerbel)
+[![Instagram](assets/badges/instagram.svg)](https://www.instagram.com/kyleherbel/)
+[![LinkedIn](assets/badges/linkedin.svg)](https://www.linkedin.com/in/kyleherbel)
+[![Skool](assets/badges/skool.svg)](https://www.skool.com/@kyleherbel)
+[![Website](assets/badges/website.svg)](https://kyleherbel.com)
 
 > "I believe AI's real promise isn't replacing humans — it's giving them their time back so they can think, love, play, and feel fulfilled."
